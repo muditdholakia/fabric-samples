@@ -1,3 +1,5 @@
+> Curated learning fork maintained by [Mudit Dholakia](https://github.com/muditdholakia). Original source: [microsoft/fabric-samples](https://github.com/microsoft/fabric-samples). See [curation purpose and setup](CURATOR_README.md) and [security guidance](CURATOR_SECURITY.md). Upstream authorship and license are retained.
+
 ![Microsoft Logo](./media/microsoft-logo-small.png)
 
 # Microsoft Fabric Samples

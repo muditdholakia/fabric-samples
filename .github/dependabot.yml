@@ -4,3 +4,16 @@ updates:
     directory: /
     schedule:
       interval: weekly
+  - package-ecosystem: npm
+    directories:
+      - "/docs-samples/data-engineering/GraphQL/MCP"
+      - "/docs-samples/data-engineering/GraphQL/React"
+      - "/docs-samples/data-engineering/GraphQL/React-Apollo-TS"
+      - "/docs-samples/data-engineering/GraphQL/React-App-Contoso"
+      - "/docs-samples/data-engineering/GraphQL/React-App-Contoso/client"
+    schedule:
+      interval: weekly
+    open-pull-requests-limit: 5
+    groups:
+      learning-dependencies:
+        patterns: ["*"]
